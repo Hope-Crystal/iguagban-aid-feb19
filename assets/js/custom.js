@@ -1,23 +1,23 @@
 $(document).ready(function(){
 	"use strict";
-    
-        /*==================================
-* Author        : "ThemeSINE"
-* Template Name : Zombiz HTML Template
-* Version       : 1.0
-==================================== */
+		
+			/*==================================
+	* Author        : "ThemeSINE"
+	* Template Name : Zombiz HTML Template
+	* Version       : 1.0
+	==================================== */
 
 
 
 
-        /*=========== TABLE OF CONTENTS ===========
-1. Scroll To Top 
-2. hcsticky 
-3. Counter
-4. owl carousel
-5. vedio player
-6. animation support
-======================================*/
+			/*=========== TABLE OF CONTENTS ===========
+	1. Scroll To Top 
+	2. hcsticky 
+	3. Counter
+	4. owl carousel
+	5. video player
+	6. animation support
+	======================================*/
 
     // 1. Scroll To Top 
 		$(window).on('scroll',function () {
@@ -137,7 +137,7 @@ $(document).ready(function(){
 			// navText:["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"]
 		});
 
-	// 5. vedio player
+	// 5. video player
 		$('.vedio-play-icon').magnificPopup({
 			
 			type:'video'
@@ -158,6 +158,8 @@ $(document).ready(function(){
             $(".single-slide-item-content button").addClass("animated fadeInLeft").css({'opacity':'0'});
 
         });
+
+		
 		
 });	
 	
