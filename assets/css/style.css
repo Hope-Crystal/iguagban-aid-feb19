@@ -2033,7 +2033,7 @@ a:active.learn-btn {
 
 .about-part {
 	position: relative;
-	background: url(../../assets/images/communitypeople/project-banner.jpg)no-repeat;
+	background: url(../../assets/images/home/main.jpg)no-repeat;
 	background-position: center;
 	background-size: cover;
 	padding: 124px 0 144px;
@@ -2045,7 +2045,7 @@ a:active.learn-btn {
 }
 
 .about-part.project-part {
-	background: url(../images/communitypeople/project-banner.jpg)no-repeat center;
+	background: url(../images/home/main.jpg)no-repeat center;
 	background-size: cover;
 	background-attachment: fixed;
 }
